@@ -19,25 +19,7 @@ To get started with the **usePopcorn** app, follow these steps:
 
 1. **Clone the repository:**
 
-   ```bash
-   git clone https://github.com/yourusername/usePopcorn.git
-   ```
-
-2. **Install dependencies:**
-
-   ```bash
-   npm install
-   ```
-
-3. **Run the application:**
-
-   ```bash
-   npm start
-   ```
-
-4. **Access the app:**  
-   Open [http://localhost:3000](http://localhost:3000) in your browser.
-
+ 
 ## Usage
 
 - Use the search bar to search for movies by title.
