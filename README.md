@@ -18,6 +18,8 @@
 To get started with the **usePopcorn** app, follow these steps:
 
 1. **Clone the repository:**
+   
+ https://github.com/DevOluwaseun/usePopcorn.git
 
  
 ## Usage
